@@ -20,6 +20,11 @@
 
 }
 
+.text {
+    font-size: 100px;
+    color:green;
+}
+
 #bottom {
     background-color: black;
     font: 20px Arial;
@@ -39,4 +44,6 @@
     background-color:gray;
     border: 1px gray;
     text-align:center;
+    max-width: 80%;
+    margin:auto;
   }
